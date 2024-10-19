@@ -28,6 +28,7 @@
     padding: 0;
     box-sizing: border-box;
     user-select: none;
+    -webkit-user-drag: none;
     }
     html {
     font-size: 62.5%;
